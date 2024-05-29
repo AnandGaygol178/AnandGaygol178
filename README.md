@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AnandGaygol178/AnandGaygol178/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Anand Gaygol</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
